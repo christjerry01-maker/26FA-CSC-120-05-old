@@ -167,3 +167,5 @@
 {"version":163,"changes":[{"offset":130,"length":0,"text":";"}],"doc":1,"seq":166,"ms":854562,"op":"edit"}
 {"version":164,"changes":[{"offset":162,"length":1,"text":""}],"doc":1,"seq":167,"ms":1977899,"op":"edit"}
 {"version":165,"changes":[{"offset":161,"length":0,"text":"}"}],"doc":1,"seq":168,"ms":1982892,"op":"edit"}
+{"version":166,"changes":[{"offset":53,"length":109,"text":""}],"doc":1,"seq":169,"ms":2035272,"op":"edit"}
+{"version":167,"paste":{"correlation":"candidate","origin":"unknown"},"changes":[{"offset":54,"length":0,"text":"{\n    int number1= 50;\n    int number2= 100;\n    int total= number1 + number2;\n    \n     cout <<total;\n    \n}"}],"doc":1,"seq":170,"ms":2040743,"op":"edit"}

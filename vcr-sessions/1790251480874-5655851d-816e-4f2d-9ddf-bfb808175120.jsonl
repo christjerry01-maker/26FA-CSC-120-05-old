@@ -192,3 +192,8 @@
 {"text":"","version":179,"snapshot":true,"doc":1,"seq":191,"ms":2693132,"op":"snap"}
 {"doc":1,"seq":192,"ms":2704807,"op":"close"}
 {"doc":2,"seq":193,"ms":2709742,"op":"close"}
+{"text":"","version":179,"snapshot":true,"doc":1,"seq":194,"ms":2712588,"op":"snap"}
+{"doc":1,"seq":195,"ms":2716302,"op":"close"}
+{"text":"","version":179,"snapshot":true,"doc":1,"seq":196,"ms":2719146,"op":"snap"}
+{"doc":1,"seq":197,"ms":2766666,"op":"close"}
+{"text":"# Prerequisites\n*.d\n\n# Compiled Object files\n*.slo\n*.lo\n*.o\n*.obj\n\n# Precompiled Headers\n*.gch\n*.pch\n\n# Linker files\n*.ilk\n\n# Debugger Files\n*.pdb\n\n# Compiled Dynamic libraries\n*.so\n*.dylib\n*.dll\n*.so.*\n\n# Fortran module files\n*.mod\n*.smod\n\n# Compiled Static libraries\n*.lai\n*.la\n*.a\n*.lib\n\n# Executables\n*.exe\n*.out\n*.app\n\n# Build directories\nbuild/\nBuild/\nbuild-*/\n\n# CMake generated files\nCMakeFiles/\nCMakeCache.txt\ncmake_install.cmake\nMakefile\ninstall_manifest.txt\ncompile_commands.json\n\n# Temporary files\n*.tmp\n*.log\n*.bak\n*.swp\n\n# vcpkg\nvcpkg_installed/\n\n# debug information files\n*.dwo\n\n# test output & cache\nTesting/\n.cache/\n\n.DS_Store/","version":1,"path":".gitignore","snapshot":true,"doc":3,"seq":198,"ms":2766682,"op":"snap"}

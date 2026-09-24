@@ -204,3 +204,8 @@
 {"doc":3,"seq":203,"ms":2785182,"op":"close"}
 {"text":"","version":179,"snapshot":true,"doc":1,"seq":204,"ms":2785196,"op":"snap"}
 {"doc":1,"seq":205,"ms":2924053,"op":"close"}
+{"text":"","version":179,"snapshot":true,"doc":1,"seq":206,"ms":3027644,"op":"snap"}
+{"doc":1,"seq":207,"ms":3034401,"op":"close"}
+{"text":"","version":179,"snapshot":true,"doc":1,"seq":208,"ms":3041811,"op":"snap"}
+{"doc":1,"seq":209,"ms":3063861,"op":"close"}
+{"text":"","version":179,"snapshot":true,"doc":1,"seq":210,"ms":3066973,"op":"snap"}

@@ -2,3 +2,4 @@
 {"branch":"main","commit":"7f9399015b16eebf9d25bddc9ac891e134220626","seq":1,"ms":-3,"op":"source.context"}
 {"source":"workspace","path":"practice.cpp","doc":1,"seq":2,"ms":-3,"op":"fs.create"}
 {"source":"watcher","doc":1,"seq":3,"ms":137,"op":"fs.create"}
+{"text":"#include <iostream>\n\nusing namespace std;\n\nint main()\n{\n    cout << \"Hello, Jerry!\" << endl;\n    return 0;\n}\n","version":1,"path":"welcome.cpp","snapshot":true,"doc":2,"seq":4,"ms":4089777,"op":"snap"}

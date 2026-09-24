@@ -188,3 +188,7 @@
 {"text":"","version":179,"snapshot":true,"doc":1,"seq":187,"ms":2599734,"op":"snap"}
 {"doc":1,"seq":188,"ms":2621884,"op":"close"}
 {"text":"","version":179,"snapshot":true,"doc":1,"seq":189,"ms":2624990,"op":"snap"}
+{"doc":1,"seq":190,"ms":2686189,"op":"close"}
+{"text":"","version":179,"snapshot":true,"doc":1,"seq":191,"ms":2693132,"op":"snap"}
+{"doc":1,"seq":192,"ms":2704807,"op":"close"}
+{"doc":2,"seq":193,"ms":2709742,"op":"close"}

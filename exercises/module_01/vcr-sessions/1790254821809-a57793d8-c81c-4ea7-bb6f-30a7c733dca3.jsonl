@@ -1,0 +1,4 @@
+{"version":1,"courseId":"26FA-CSC-120-05","folder":"exercises/module_01","startedAt":"2026-09-24T13:00:21.809Z","attemptId":"201beb2b-dfc2-47b2-8e72-09cefa49d6fa","segmentId":"bce7be4b-0b1c-4353-9b52-ab3465a03beb","sourceWindowId":"d49d78e1-85a7-4ea3-9873-92805023ffb5","seq":0,"ms":0,"op":"session"}
+{"branch":"main","commit":"7f9399015b16eebf9d25bddc9ac891e134220626","seq":1,"ms":-3,"op":"source.context"}
+{"source":"workspace","path":"practice.cpp","doc":1,"seq":2,"ms":-3,"op":"fs.create"}
+{"source":"watcher","doc":1,"seq":3,"ms":137,"op":"fs.create"}

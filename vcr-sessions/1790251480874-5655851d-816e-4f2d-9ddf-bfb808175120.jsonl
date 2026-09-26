@@ -223,3 +223,8 @@
 {"text":"","version":179,"snapshot":true,"doc":1,"seq":222,"ms":208795374,"op":"snap"}
 {"doc":1,"seq":223,"ms":208798613,"op":"close"}
 {"text":"// nthis program has variables of several of the intenger types\n#include <iostream>\nusing namespace std;\n\nint main()\n{\n    int checking;\n    unsigned int miles;\n    long diameter;\n\n    checking = -20;\n    miles = 4276;\n    diameter = 100000;\n    cout << \"we have made a long journey of \" << miles;\n    cout << \" miles.\\n\";\n    cout << \"our checking account balance is \" << checking;\n    cout << \"\\n the galaxy is about \" << diameter;\n    cout << \" light years in diameter.\\n\";\n    return 0;\n}\n","version":1,"snapshot":true,"doc":2,"seq":224,"ms":208809545,"op":"snap"}
+{"executionId":"6ea14d22-8328-4fbc-9cf5-3ba51b670e61","name":"C/C++: g++ build active file","type":"cppbuild","doc":4,"seq":225,"ms":215156729,"op":"task.start"}
+{"executionId":"6ea14d22-8328-4fbc-9cf5-3ba51b670e61","processId":-1,"doc":4,"seq":226,"ms":215156734,"op":"task.processStart"}
+{"executionId":"6ea14d22-8328-4fbc-9cf5-3ba51b670e61","exitCode":0,"doc":4,"seq":227,"ms":215157653,"op":"task.processEnd"}
+{"executionId":"6ea14d22-8328-4fbc-9cf5-3ba51b670e61","doc":4,"seq":228,"ms":215157654,"op":"task.end"}
+{"executionId":"427e7fd5-07ef-451b-904f-59c90dfde1da","name":"C/C++: g++ build and debug active file","type":"cppdbg","noDebug":true,"doc":4,"seq":229,"ms":215157660,"op":"debug.start"}

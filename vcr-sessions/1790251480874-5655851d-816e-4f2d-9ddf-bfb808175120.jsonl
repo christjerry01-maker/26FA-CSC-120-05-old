@@ -302,3 +302,9 @@
 {"executionId":"1b3b3314-a919-488a-810c-2cae7d806d9e","doc":4,"seq":301,"ms":219045978,"op":"task.end"}
 {"executionId":"5cab2279-4269-47fc-a438-62a32922c2ae","name":"C/C++: g++ build and debug active file","type":"cppdbg","noDebug":true,"doc":4,"seq":302,"ms":219045986,"op":"debug.start"}
 {"executionId":"5cab2279-4269-47fc-a438-62a32922c2ae","doc":4,"seq":303,"ms":219075886,"op":"debug.end"}
+{"executionId":"6dff9c36-482d-4769-a477-969cbd18fd66","name":"C/C++: g++ build active file","type":"cppbuild","doc":4,"seq":304,"ms":219249839,"op":"task.start"}
+{"executionId":"6dff9c36-482d-4769-a477-969cbd18fd66","processId":-1,"doc":4,"seq":305,"ms":219249845,"op":"task.processStart"}
+{"executionId":"6dff9c36-482d-4769-a477-969cbd18fd66","exitCode":0,"doc":4,"seq":306,"ms":219250054,"op":"task.processEnd"}
+{"executionId":"6dff9c36-482d-4769-a477-969cbd18fd66","doc":4,"seq":307,"ms":219250055,"op":"task.end"}
+{"executionId":"a0c79f87-4183-4d38-a43d-cdc69603ac06","name":"C/C++: g++ build and debug active file","type":"cppdbg","noDebug":true,"doc":4,"seq":308,"ms":219250063,"op":"debug.start"}
+{"executionId":"a0c79f87-4183-4d38-a43d-cdc69603ac06","doc":4,"seq":309,"ms":219299537,"op":"debug.end"}

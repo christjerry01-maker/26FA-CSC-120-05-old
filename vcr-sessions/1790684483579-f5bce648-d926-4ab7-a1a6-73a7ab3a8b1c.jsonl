@@ -51,3 +51,5 @@
 {"executionId":"5bbca40d-e5ab-41af-b2d3-0c14b037f78b","doc":2,"seq":50,"ms":6186384,"op":"task.end"}
 {"executionId":"8f14c94a-ffa6-4b71-abb2-514de1d13ecf","name":"C/C++: g++ build and debug active file","type":"cppdbg","noDebug":true,"doc":2,"seq":51,"ms":6186390,"op":"debug.start"}
 {"executionId":"8f14c94a-ffa6-4b71-abb2-514de1d13ecf","doc":2,"seq":52,"ms":6234811,"op":"debug.end"}
+{"source":"workspace","path":"exercises/module_03","doc":3,"seq":53,"ms":7876833,"op":"fs.create"}
+{"source":"watcher","doc":3,"seq":54,"ms":7876971,"op":"fs.create"}

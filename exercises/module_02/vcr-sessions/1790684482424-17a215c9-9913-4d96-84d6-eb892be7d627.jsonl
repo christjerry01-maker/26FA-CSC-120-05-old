@@ -3,3 +3,4 @@
 {"executionId":"15dd50f1-616e-41e6-b4f3-0facb615620f","terminalId":"6bfad236-ccf6-4cd3-9812-491297a8358d","commandLine":"cd ..","confidence":2,"path":".","doc":1,"seq":2,"ms":-12,"op":"terminal.start"}
 {"executionId":"15dd50f1-616e-41e6-b4f3-0facb615620f","terminalId":"6bfad236-ccf6-4cd3-9812-491297a8358d","data":"\u001b]633;C\u0007\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                              \r \r","doc":1,"seq":3,"ms":-10,"op":"terminal.output"}
 {"executionId":"15dd50f1-616e-41e6-b4f3-0facb615620f","terminalId":"6bfad236-ccf6-4cd3-9812-491297a8358d","commandLine":"cd ..","confidence":2,"exitCode":0,"doc":1,"seq":4,"ms":-10,"op":"terminal.end"}
+{"seq":5,"ms":36493909,"op":"end"}
